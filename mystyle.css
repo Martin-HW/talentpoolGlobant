@@ -1,0 +1,14 @@
+body {
+  background-color: blueviolet;
+}
+
+#myElement {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12px;
+}
+
+.title {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
