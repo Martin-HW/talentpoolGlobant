@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "id": 1, "name": "martin", "place": "texas" },
+    { "id": 2, "name": "ivan", "place": "canada" },
+    { "id": 3, "name": "suarez", "place": "irland" },
+    { "id": 4, "name": "cristiano", "place": "portugal" }
+  ]
+}
